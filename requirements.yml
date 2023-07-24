@@ -1,0 +1,6 @@
+- src: geerlingguy.mysql
+- src: dev-sec.mysql-hardening
+- src: geerlingguy.java
+- src: geerlingguy.jenkins
+- src: geerlingguy.packer
+- src: geerlingguy.ansible
